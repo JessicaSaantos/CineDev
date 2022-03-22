@@ -9,15 +9,17 @@
 # CineDev
 
 ***
-[]()
+[![NPM](https://img.shields.io/npm/l/react)](https://img.shields.io/github/license/JessicaSaantos/CineDev)
+
  ## Descrição:
   **🔗Projeto CineDev:** Interface simples de uma plataforma *streaming*, com objetivo de oferecer ao usuário uma experiência de cinema com filmes de diferentes categorias. Esse projeto contém o mesmo padrão de outras plataformas de filme com pequeno menu de navegação no cabeçalho, uma barra de pesquisa no menu e a exibição dos filmes disponiveis  no conteúdo principal da página. Neste projeto é possível selecionar o filme por gênero ou fazer a pesquisa do filme por nome.    
 
 ***
 
 ### Tecnologias Utilizadas:
-![GitHub language count](https://img.shields.io/github/languages/count/JessicaSaantos/PicPro)
-![GitHub top language](https://img.shields.io/github/languages/top/JessicaSaantos/PicPro)
+![GitHub language count](https://img.shields.io/github/languages/count/JessicaSaantos/CineDev)
+
+![GitHub top language](https://img.shields.io/github/languages/top/JessicaSaantos/CineDev)
 
 Marcação | Estilização | Programção
 ---|---|---
