@@ -72,6 +72,6 @@ Objetivo principal do projeto está finalizado. Mas outras funcionalidades poder
 ### Pré-requisitos:
 
 Navegador web: Chrome/Edge <br>
-**Em breve poderá ver o funcionamento clicando [aqui](https://jessicasaantos.github.io/CineDev/)** <br>
+**Para ver o funcionamento é só clicar [aqui](https://jessicasaantos.github.io/CineDev/)** <br>
 Para extrair o arquivo e trabalhar com o código é bom ter um editor como [VSCode](https://code.visualstudio.com/) por exemplo.
 
