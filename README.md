@@ -33,7 +33,7 @@ Html | Css | JavaScript
  
  <p> Além disso, foi interessante usar o JS para apresentar os filmes sem necessariamente ter o contéudo na marcação HTML, pois com o próprio JS foi possível fazer a listagem dos filmes com loop e a criação de elementos HTML. Usando DOM, e os dados do array e funções para executar tarefas como filtrar e separar os filmes por gênero e criar o template para exibir o resultado.</p>
 
-<p>  Foram usados nesse programa estrutura de repetição (forEach) para percorrer o array listando os filmes, comandos de interação de arrays como (filter) para filtrar os filmes por categoria e (find) para realizar pesquisa dos filmes por nome...
+<p>  Foram usados nesse programa estrutura de repetição (forEach) para percorrer o array listando os filmes, comandos de interação de arrays como (filter) para filtrar os filmes por categoria e (find) para realizar pesquisa dos filmes por nome, estrutura condicional (if, else)...
  </p>
 <p>
     🔗 Esse desenvolvimento foi realizado em uma maratona de aula da escola <a href="https://kenzie.com.br/" rel="nofollow">Kenzie Academy Brasil</a> e apresentado no canal do <a href="https://www.youtube.com/c/KenzieAcademyBrasil">YouTube da Kenzie</a>.
@@ -63,8 +63,9 @@ Objetivo principal do projeto está finalizado. Mas outras funcionalidades poder
  - [x] Interface Principal
  - [x] Seleção de filme por categoria
  - [x] Pesquisa de filme por nome
+ - [x] Aviso de filme não encontrado
  - [ ] Responsividade
- - [ ] Aviso de filme não encontrado
+ - [ ] Página de apresentação no GitHub
  
 
 ### Demonstração: 
@@ -79,6 +80,6 @@ Objetivo principal do projeto está finalizado. Mas outras funcionalidades poder
 ### Pré-requisitos:
 
 Navegador web: Chrome/Edge <br>
-**Para ver o funcionamento é só clicar [aqui]()** <br>
+**Em breve poderá ver o funcionamento clicando [aqui]()** <br>
 Para extrair o arquivo e trabalhar com o código é bom ter um editor como [VSCode](https://code.visualstudio.com/) por exemplo.
 
