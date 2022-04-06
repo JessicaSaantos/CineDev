@@ -58,14 +58,6 @@ Html | Css | JavaScript
 ### Status do Projeto: 
 *Concluído* ✔️
 Objetivo principal do projeto está finalizado. Mas outras funcionalidades poderão ser adicionadas ao CineDev.
-
-**Possíveis funcionalidades:**
- - [x] Interface Principal
- - [x] Seleção de filme por categoria
- - [x] Pesquisa de filme por nome
- - [x] Aviso de filme não encontrado
- - [ ] Responsividade
- - [ ] Página de apresentação no GitHub
  
 
 ### Demonstração: 
@@ -80,6 +72,6 @@ Objetivo principal do projeto está finalizado. Mas outras funcionalidades poder
 ### Pré-requisitos:
 
 Navegador web: Chrome/Edge <br>
-**Em breve poderá ver o funcionamento clicando [aqui]()** <br>
+**Em breve poderá ver o funcionamento clicando [aqui](https://jessicasaantos.github.io/CineDev/)** <br>
 Para extrair o arquivo e trabalhar com o código é bom ter um editor como [VSCode](https://code.visualstudio.com/) por exemplo.
 
