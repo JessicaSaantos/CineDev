@@ -113,6 +113,11 @@ main ul.secaoFilmes li {
     margin-bottom: 50px;
     cursor: pointer;
 }
+main ul.secaoFilmes li p {
+    font-size: 25px;
+    color: white;
+    font-style: italic;
+}
 
 main ul.secaoFilmes li img {
     width: 100%;

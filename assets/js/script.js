@@ -64,18 +64,24 @@ secaoCategorias.addEventListener('click' , function(event) {
    
     let btn = document.querySelector("button")
     
-    btn.addEventListener('click' , function() {
+    btn.addEventListener('click' , function(filme) {
 
         let texto = document.querySelector("input")
         let nomeFilme = texto.value 
-           filmes.filter (function(filme) {
+        let filmePes = filmes.find (filme => filme.nome === nomeFilme);
 
-            if (nomeFilme === filme.nome){
+        if (typeof filmePes == "undefined"){
                 listaFilme.innerHTML = `<li>
-                <img src="${filme.url}" alt="${filme.nome}">
-                <h2>${filme.nome}</h2></li>`
-            }
-           })
+                <p>Filme não encontrado!</p>
+                </li>`
+        }
+        else {
+        listaFilme.innerHTML = `<li>
+        <img src="${filmePes.url}" alt="${filmePes.nome}">
+        <h2>${filmePes.nome}</h2>
+        </li>`
+        }
+    
 
     })
 
