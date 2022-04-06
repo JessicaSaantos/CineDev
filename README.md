@@ -29,11 +29,11 @@ Html | Css | JavaScript
  
 ### Aprendizados:
 
- <p> 📚 Através desse projeto foi possível exercitar o uso da linguegem JavaScript para tornar a página dinâmica, e fazer a filtragem dos filmes por categoria, também do uso de array para armazenar informações variadas sobre os filmes e a manipulação dos dados para conseguir o resultado final na apresentação da página. </p> 
+ <p> 📚 Através desse projeto foi possível exercitar o uso da linguegem JavaScript em específico as funcionalidades das variáveis compostas para tornar a página dinâmica, e fazer a filtragem dos filmes por categoria, também pesquisando por nome. Usando as informações do array sobre os filmes e manipulando esses dados para conseguir o resultado final na apresentação da página. </p> 
  
- <p> Além disso, foi interessante usar o JS para apresentar os filmes sem necessariamente ter o contéudo na marcação HTML, pois com o próprio JS foi possível fazer a listagem dos filmes com loop e a criação de elementos HTML. Assim usando DOM, e os dados do array e funções para executar tarefas como filtrar e separar os filmes por gênero e criar o template para exibir o resultado final. Também identicando e apresentando o filme que foi pesquisado por nome. </p>
+ <p> Além disso, foi interessante usar o JS para apresentar os filmes sem necessariamente ter o contéudo na marcação HTML, pois com o próprio JS foi possível fazer a listagem dos filmes com loop e a criação de elementos HTML. Usando DOM, e os dados do array e funções para executar tarefas como filtrar e separar os filmes por gênero e criar o template para exibir o resultado.</p>
 
-<p>  Foram usados nesse programa estrutura de repetição (forEach) para percorrer o array, estrutura condicional simples (if)...
+<p>  Foram usados nesse programa estrutura de repetição (forEach) para percorrer o array listando os filmes, comandos de interação de arrays como (filter) para filtrar os filmes por categoria e (find) para realizar pesquisa dos filmes por nome...
  </p>
 <p>
     🔗 Esse desenvolvimento foi realizado em uma maratona de aula da escola <a href="https://kenzie.com.br/" rel="nofollow">Kenzie Academy Brasil</a> e apresentado no canal do <a href="https://www.youtube.com/c/KenzieAcademyBrasil">YouTube da Kenzie</a>.
